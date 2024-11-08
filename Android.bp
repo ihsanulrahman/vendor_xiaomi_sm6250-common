@@ -9911,7 +9911,7 @@ cc_prebuilt_library_shared {
                 "libhwbinder",
                 "libutils",
                 "libhidltransport",
-                "libvendor.goodix.hardware.biometrics.fingerprint@2.1",
+                "vendor.goodix.hardware.biometrics.fingerprint@2.1",
                 "libgf_hal",
                 "libgf_ca",
                 "libQSEEComAPI",
@@ -9922,7 +9922,6 @@ cc_prebuilt_library_shared {
         },
     },
     compile_multilib: "64",
-    check_elf_files: false,
     prefer: true,
     soc_specific: true,
 }
