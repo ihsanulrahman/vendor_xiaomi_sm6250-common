@@ -430,6 +430,7 @@ PRODUCT_PACKAGES += \
     libqcreverb \
     libqcvirt \
     libshoebox \
+    libspatialaudio \
     vendor.qti.hardware.wifidisplaysessionl@1.0-halimpl \
     com.qti.eeprom.sunny_gc8034 \
     com.qti.sensor.curtana_gc02m1 \
